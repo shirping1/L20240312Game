@@ -1,18 +1,23 @@
-﻿
-using System.Reflection.Metadata;
-
-internal class Floor : GameObject
+﻿class Floor : GameObject
 {
     public Floor()
     {
         shape = ' ';
     }
 
-    ~Floor() 
+    ~Floor()
     {
-        
+
     }
-    
+    public Floor(int newX, int newY)
+    {
+        shape = ' ';
+
+
+        x = newX;
+        y = newY;
+    }
+
     public override void Start()
     {
 
@@ -25,6 +30,7 @@ internal class Floor : GameObject
 
     public override void Render()
     {
-
+        //base.Render();
     }
 }
+

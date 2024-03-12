@@ -1,0 +1,15 @@
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\bin\Debug\net8.0\L20240312_Game.exe
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\bin\Debug\net8.0\L20240312_Game.deps.json
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\bin\Debug\net8.0\L20240312_Game.runtimeconfig.json
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\bin\Debug\net8.0\L20240312_Game.dll
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\bin\Debug\net8.0\L20240312_Game.pdb
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.AssemblyInfoInputs.cache
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.AssemblyInfo.cs
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.csproj.CoreCompileInputs.cache
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.sourcelink.json
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.dll
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\refint\L20240312_Game.dll
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.pdb
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\L20240312_Game.genruntimeconfig.cache
+C:\Users\lee\GitTest\Test\L20240312_Game\L20240312_Game\obj\Debug\net8.0\ref\L20240312_Game.dll

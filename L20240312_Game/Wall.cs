@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 class Wall : GameObject
 {
     public Wall()
     {
         shape = '*';
+    }
+
+    public Wall(int newX, int newY)
+    {
+        shape = '*';
+
+        x = newX; 
+        y = newY;
     }
 
     ~Wall()
@@ -25,7 +30,7 @@ class Wall : GameObject
 
     public override void Render()
     {
-
+        base.Render();
     }
 }
 

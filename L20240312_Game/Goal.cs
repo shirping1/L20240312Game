@@ -1,36 +1,38 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace L20240312_Game
+﻿
+internal class Goal : GameObject
 {
-    internal class Goal : GameObject
+    public Goal()
     {
-        public Goal()
-        {
-            shape = 'G';
-        }
+        shape = 'G';
+    }
 
-        ~Goal()
-        {
+    ~Goal()
+    {
 
-        }
+    }
 
-        public override void Start()
-        {
+    public Goal(int newX, int newY)
+    {
+        shape = 'G';
 
-        }
 
-        public override void Update()
-        {
+        x = newX;
+        y = newY;
+    }
 
-        }
+    public override void Start()
+    {
 
-        public override void Render()
-        {
+    }
 
-        }
+    public override void Update()
+    {
+
+    }
+
+    public override void Render()
+    {
+        base.Render();
     }
 }
+
